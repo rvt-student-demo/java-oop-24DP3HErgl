@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kursi>
+    
+    <kurss id="PROG101"> <nosaukums>Ievads programmēšanā</nosaukums>
+        <apraksts>Kursa ietvaros apgūs pamata programmēšanas loģiku un sintaksi.</apraksts>
+        <pasniedzejs>Jānis Bērziņš</pasniedzejs>
+        <ilgums>40</ilgums>
+        <studentu_skaits>25</studentu_skaits>
+        <limenis>iesācēji</limenis>
+    </kurss>
+
+    <kurss id="DATA202">
+        <nosaukums>Datu bāzu pamati</nosaukums>
+        <apraksts>Praktiskas nodarbības darbam ar relāciju datu bāzēm un SQL valodu.</apraksts>
+        <pasniedzejs>Anna Kociņa</pasniedzejs>
+        <ilgums>60</ilgums>
+        <studentu_skaits>18</studentu_skaits>
+        <limenis>vidējs</limenis>
+    </kurss>
+
+    <kurss id="WEB303">
+        <nosaukums>Mākoņskaitļošanas arhitektūra</nosaukums>
+        <apraksts>Sarežģītu, mērogojamu sistēmu izstrāde mākoņpakalpojumu vidē.</apraksts>
+        <pasniedzejs>Ivars Ozols</pasniedzejs>
+        <ilgums>80</ilgums>
+        <studentu_skaits>12</studentu_skaits>
+        <limenis>profesionāls</limenis>
+    </kurss>
+
+</kursi>
